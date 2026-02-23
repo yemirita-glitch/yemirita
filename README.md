@@ -67,6 +67,10 @@ Comprehensive financial dataset analysis with calculated insights and performanc
 
 ---
 
+## 📊 Dashboard Preview
+
+![Sales Performance Dashboard](dashboard.png)
+
 ## 🎯 Professional Focus
 
 I aim to apply data analysis and reporting skills to help organizations make informed, data-driven decisions and improve business performance.
