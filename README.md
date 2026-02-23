@@ -68,8 +68,7 @@ Comprehensive financial dataset analysis with calculated insights and performanc
 ---
 
 ## 📊 Dashboard Preview
-
-![Sales Performance Dashboard](dashboard.png)
+![SALES PERFORMANCE DASHBOARD](DASHBOARD.PNG)
 
 ## 🎯 Professional Focus
 
