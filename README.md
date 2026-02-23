@@ -1,3 +1,4 @@
+
 </> markdown
 # Excel Data Analysis Portfolio  
 ### By Oluwayemisi Olufemi 
@@ -68,7 +69,7 @@ Comprehensive financial dataset analysis with calculated insights and performanc
 ---
 
 ## 📊 Dashboard Preview
-   SALES PERFOMANCE DASHBOARD.png
+  ![SALES PERFORMANCE DASHBOARD.png]
 
 ## 🎯 Professional Focus
 
