@@ -68,10 +68,9 @@ Comprehensive financial dataset analysis with calculated insights and performanc
 
 ## 📊 Dashboard Preview
 
-![Sales Dashboard](sales-dashboard.png)
-
-
-<img src="sales-dashboard.png" width="700">
+<p align="center">
+  <img src="sales-dashboard.png" width="700">
+</p>
 
 
  
